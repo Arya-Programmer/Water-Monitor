@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716140131825",
+    "project_id": "homecontrol-85bc9",
+    "storage_bucket": "homecontrol-85bc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716140131825:android:a268f620a5b89883f24050",
+        "android_client_info": {
+          "package_name": "com.example.monitor_water"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716140131825-thvak1hks19v7bgjbf5ohfgrcpdoi085.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq8aPPxYtUzVEMTkgAjgKIrsF-PvV1TJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716140131825-thvak1hks19v7bgjbf5ohfgrcpdoi085.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
